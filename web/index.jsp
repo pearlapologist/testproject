@@ -1,4 +1,4 @@
-<%-- 
+<%--
     Document   : index.jsp
     Created on : 17.05.2020, 10:53:10
     Author     : bayan
@@ -27,13 +27,13 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Главная</title>
-       
+        <title>Дефолтная страницы</title>
+
     </head>
-    <body> 
+    <body>
         <jsp:include page="/WEB-INF/auth/header.jsp"/>
             <div class="container">
-      
+
         <h3>Здравствуйте</h3><br/>
 
             </div>
